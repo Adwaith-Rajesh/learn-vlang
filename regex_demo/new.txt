@@ -1,0 +1,8 @@
+fn txt_plain_parser() {
+    println('This function parses normal files')
+}
+
+
+fn application_pdf_parser() {
+    println('This function parses the pdf file')
+}
